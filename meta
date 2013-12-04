@@ -1,0 +1,16 @@
+---
+title: Hayy ibn Yaqdhan
+author: Ibn Tufail
+adviser: Ibn Bajjah
+abstract: |
+	Without contact with other human beings, Hayy discovers ultimate truth through a systematic process of reasoned inquiry.
+	Hayy ultimately comes into contact with civilization and religion when he meets a castaway named Absal.
+	He determines that certain trappings of religion and civilization, namely imagery and dependence on material goods, are necessary for the multitude in order that they might have decent lives.
+	However, he believes that imagery and material goods are distractions from the truth and ought to be abandoned by those whose reason recognizes that they are distractions.
+acknowledgements: |
+	Kermit the frog, for his endless entertainment.
+documentclass: tex/muthesis
+classoption:
+	- 12pt
+	- MPhil
+...
